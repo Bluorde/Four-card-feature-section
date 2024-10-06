@@ -35,6 +35,7 @@ body {
         align-self: center;
         padding: 10px;
         border-radius: 5px;
+        box-shadow: 3px 5px 15px grey;
     }
     .team-builder {
         background-color: #ffffff;
@@ -42,12 +43,14 @@ body {
         padding: 10px;
         margin-bottom: 20px;
         border-radius: 5px;
+        box-shadow: 3px 5px 15px grey;
     }
     .karma {
         background-color: #ffffff;
         border-top: 3px solid #f3af58;
         padding: 10px;
         border-radius: 5px;
+        box-shadow: 3px 5px 15px grey;
     }
     .calculator {
         background-color: #ffffff;
@@ -55,6 +58,7 @@ body {
         align-self: center;
         padding: 10px;
         border-radius: 5px;
+        box-shadow: 0px 5px 15px grey;
     }
     h1 {
         color: #525263;
@@ -104,6 +108,7 @@ body {
         padding: 10px 10px 25px 10px;
         border-radius: 5px;
         margin-bottom: 20px;
+        box-shadow: 3px 5px 15px grey;
     }
     .team-builder {
         background-color: #ffffff;
@@ -111,6 +116,7 @@ body {
         padding: 10px 10px 25px 10px;
         border-radius: 5px;
         margin-bottom: 20px;
+        box-shadow: 3px 5px 15px grey;
     }
     .karma {
         background-color: #ffffff;
@@ -118,6 +124,7 @@ body {
         padding: 10px 10px 25px 10px;
         border-radius: 5px;
         margin-bottom: 20px;
+        box-shadow: 3px 5px 15px grey;
     }
     .calculator {
         background-color: #ffffff;
@@ -125,6 +132,7 @@ body {
         padding: 10px 10px 25px 10px;
         border-radius: 5px;
         margin-bottom: 20px;
+        box-shadow: 0px 5px 15px grey;
     }
     h1 {
         color: #525263;
